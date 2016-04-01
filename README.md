@@ -100,3 +100,5 @@ An obvious tweak would be to modify this to work without the supplementary hardw
 ## Other Notes
 
 This code preserves the MIDI to CV/Gate functionality of the stock nanosynth configuration, but sacrifices the digital Mozzi oscillator because the Mozzi libs apparently clash with the libraries used to drive the digipot voltage sources.
+
+I've got a good idea for the unused button in LINKED GATE mode - I'd like it to toggle between different methods of operation. I'd like two different random trigger modes - one high-density mode that triggers the gate more often than not, and a low-density mode that triggers the gate less frequently.
