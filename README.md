@@ -13,8 +13,8 @@ QuattroFonti is an open source project and I envision many modifications of the 
 * 2 breadboard mountable pushbuttons
 * 1 RGB LED
 * 1 yellow LED
-* 4 680 ohm resistors
-* 4 12" jumper wires (to connect the buttons to the Arduino pins)
+* 4 680 &omega; resistors
+* 4 30cm (12") jumper wires (to connect the buttons to the Arduino pins)
 * QuattroFonti software
 * QuattroFonti schematic
 * these directions
