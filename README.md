@@ -14,7 +14,7 @@ QuattroFonti is an open source project and I envision many modifications of the 
 * 1 RGB LED
 * 1 yellow LED
 * 4 680&Omega; resistors
-* 4 30cm (12") jumper wires (to connect the buttons to the Arduino pins)
+* 4 30cm (12") jumper wires (to connect the nanosynth's built-in buttons to the Arduino's input pins)
 * QuattroFonti software
 * QuattroFonti schematic
 * these directions
