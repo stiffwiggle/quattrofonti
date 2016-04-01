@@ -88,7 +88,7 @@ Buttons 1, 2 and 3 change the settings of the current source, depending on the c
 * Button 3: Speed up
 
 ###### LINKED GATE:
-* Button 1: [currently unimplemented] <!-- cycle between gate modes - ALWAYS, RANDOM LOW, RANDOM HIGH -->
+* Button 1: [currently unimplemented] 
 * Button 2: Decrease gate pulse size
 * Button 3: Increase gate pulse size
 
