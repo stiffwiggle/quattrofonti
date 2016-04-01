@@ -36,7 +36,7 @@ QuattroFonti uses the three built-in buttons on the nanosynth, plus two extra bu
 
 QuattroFonti provides four customizable voltage sources. Each one can operate as a pseudo-sequencer or LFO. Each source also can be set into LINKED GATE mode where it provides 5V pulses synced with the previous source's sequence.
 
-All four sources are constantly emitting voltages at all times. However one source is currently "selected". The selected source determines the color of the RGB led:
+All four sources are constantly emitting voltages at all times. However, one source is "selected" at any given time. The selected source determines the color of the RGB led:
 
 * Red - Source A
 * Green - Source B
