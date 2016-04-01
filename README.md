@@ -1,4 +1,4 @@
-# Nanosynth QuattroFonti
+# ns1anosynth QuattroFonti
 
 ## Introduction
 
