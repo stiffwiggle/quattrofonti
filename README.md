@@ -95,3 +95,7 @@ Buttons 1, 2 and 3 change the settings of the current source, depending on the c
 ## Future Development
 
 An obvious tweak would be to modify this to work without the supplementary hardware. The onboard voltage sources C1 and C2 could be used to select a source and control the speeds of each. I look forward to seeing what others can do with this project as a foundation.
+
+## Other Notes
+
+This code preserves the MIDI to CV/Gate functionality of the stock nanosynth configuration, but sacrifices the digital Mozzi oscillator because the Mozzi libs apparently clash with the libraries used to drive the digipot voltage sources.
