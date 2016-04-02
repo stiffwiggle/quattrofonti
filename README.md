@@ -64,7 +64,7 @@ LFO mode offers triangle and rising/falling saw wave shapes at much slower rates
 
 LINKED GATE matches the tempo of the previous source and emits synced 5V pulses ideal for connecting to the EG or VCA gate inputs.
 
-> LINKED GATE mode can only be enabled if the PREVIOUS source is set to PSEUDO-SEQUENCER. 
+> \* LINKED GATE mode can only be enabled if the PREVIOUS source is set to PSEUDO-SEQUENCER. 
 > 
 > For example, when Source A (Red) is operating as a PSEUDO-SEQUENCER, Source B (Green) can be switched to LINKED GATE mode, in which case it is emitting gate pulses in sync with Source A's tempo. Every time Source A emits a new voltage, Source B will go high.
 > 
