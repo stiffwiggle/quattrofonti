@@ -1,5 +1,7 @@
 # ns1nanosynth QuattroFonti
 
+*check out the introduction video on YouTube: https://www.youtube.com/watch?v=cXFN0c5okHM*
+
 ## Introduction
 
 The QuattroFonti is a software/hardware configuration of the soundmachines ns1nanosynth providing extra capabilities via the nanosynth's built-in Arduino computer. QuattroFonti adds four additional LFOs and pseudo-sequencers which dramatically increase the creative expressibility of the nanosynth.
